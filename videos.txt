@@ -1,6 +1,6 @@
 Stuff I've done
 
-status (to do / done)
+status (todo / done)
 Title
 Link
 
@@ -11,3 +11,40 @@ https://www.youtube.com/watch?v=USjZcfj8yxE
 Done
 Learn Github in 20 Minutes
 https://www.youtube.com/watch?v=nhNq2kIvi9s
+
+todo
+Mastering Dynamic Programming - How to solve any interview problem (Part 1)
+https://www.youtube.com/watch?v=Hdr64lKQ3e4
+
+todo
+Using GitHub and GitKraken
+https://www.youtube.com/watch?v=ceT3pm5hYvs
+
+todo
+Docker Crash Course for Absolute Beginners [NEW]
+https://www.youtube.com/watch?v=pg19Z8LL06w
+
+todo
+Git and GitHub for Beginners - Crash Course
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+todo
+The Unreasonable Effectiveness Of Plain Text
+https://www.youtube.com/watch?v=WgV6M1LyfNY
+
+todo
+Developer Portfolio Do's and Don'ts
+https://www.youtube.com/watch?v=nlSgxeT2_dc
+
+todo
+How to Create & Host a Portfolio in 10 minutes with Github pages! #grindreelwhat
+https://www.youtube.com/watch?v=u-RLu_8kwA0
+
+todo
+What does larger scale software development look like?
+https://www.youtube.com/watch?v=Dl-BdxNRUqs
+
+todo
+25 VS Code Productivity Tips and Speed Hacks
+https://www.youtube.com/watch?v=ifTF3ags0XI
+
